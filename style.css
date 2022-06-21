@@ -1,0 +1,136 @@
+/* tags  */
+a{
+	text-decoration: none #757575;
+	font-size: 11px;
+}
+div{
+	display: block;
+	line-height: 1.5;
+}
+label{
+	padding: 5px;
+    margin: 2px;
+    font-size: 13px;
+	width:100%;
+}
+
+/* classes  */
+.abc{
+	width: 40%;
+	height: fit-content;
+	margin-left: 36%;
+
+}
+.button-div{
+	width : 100%;
+	height:5px ;
+	margin: 2px 0px;	
+}
+.container{
+	width:1022px;
+	height: 960px;
+}
+.element-area{
+	width: 960px;
+	height:960px;
+	
+}
+.form{
+		width: 260px;
+		height: 400px;
+		background-color: #fff;
+		color: #757575;
+		margin-left: 70%;
+		margin-bottom: 10%;
+		padding:50px 28px 30px;
+		
+}
+.form-style{
+	border: none;
+	text-transform: capitalize;
+
+}
+.home-banner{
+	background-color: #000;
+	background-position:;
+	background-image: url("home-banner.jpg");
+	background-repeat:no-repeat;
+	text-align:center;
+	width:450px;
+	height:900px; 
+	width:fit-content;
+	color: white;
+
+}
+.header{
+	background-color: #fff;
+	width: 100%;
+	height: 55px;
+	position: fixed;
+	
+}
+.h1{
+	font-size: 30px;
+	width: 59%;
+	margin-left: 36%;
+}
+.login-card{
+	padding:16px 0px;
+}
+.logo{
+	width: 142px;
+}
+.open-now{
+	margin: auto;
+}
+.padding {
+	border:none;
+	border-bottom: 1px solid black;
+	color: #757575;
+	margin: auto;
+	outline: none;
+}
+.right-side{
+	width: 400px;
+	
+}
+.right-heading{
+	margin-top: 60px;
+	line-height: 1.3;
+	font-size: 46px;
+	position: absolute;
+	left: 650px;
+}
+.right-paragraph{
+	line-height: 1.5;
+	/* font-size: 46px; */
+	position: relative;
+	left: 650px;
+	top: 100px;
+}
+.submit-button{
+	border-radius: 4px;
+	border: none;
+	background: #3CCD32;
+	color: white;
+	width: 100%;
+	margin: auto;
+	padding: 17px 10px;
+}
+.terms-div{
+	margin-top: 60px;
+
+}
+
+/* Ids */
+ 
+#title{
+	margin: auto;
+	width:100%;
+	
+}
+#checkbox{
+
+	font-size: 5px;
+	padding: 16px 0px;
+}
